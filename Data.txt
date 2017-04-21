@@ -1,2 +1,3 @@
 *** Variables ***
-${host}           52.70.135.11
+${host}           spring-booty-1164729006.us-east-1.elb.amazonaws.com
+${service_path}    /logfile
